@@ -15,7 +15,7 @@ In the future, I plan to learn React, Node.js, and other technologies to build f
 ## Get In Touch🌎:
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rabhyaaaaa)
 [![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rabhyaaaa)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rabhya-tyagi-359836332/)
 ## 📊 GitHub Stats:
 
 ![Rabhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabhyaaaa&show_icons=true&theme=radical)
