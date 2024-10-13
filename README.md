@@ -19,3 +19,7 @@ In the future, I plan to learn React, Node.js, and other technologies to build f
 ## 📊 GitHub Stats:
 
 ![Rabhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabhyaaaa&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rabhyaaaa&theme=radical)](https://git.io/streak-stats)
