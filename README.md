@@ -6,7 +6,8 @@ Completed, working on structured web content.
 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
  Currently learning, focusing on layout and design.
-- **JavaScript**: Coming soon!
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white Coming soon!
 
 In the future, I plan to learn React, Node.js, and other technologies to build full-fledged web applications.
 
