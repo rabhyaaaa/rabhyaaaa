@@ -1,16 +1,12 @@
-Heya! I am Rabhya👋
+# Hi, I'm Rabhya 👋
+I'm a first-year B.Tech CSE student Currently, learning web development.
+## Skills I'm Learning
+- **HTML**: Completed, working on structured web content.
+- **CSS**: Currently learning, focusing on layout and design.
+- **JavaScript**: Coming soon!
 
-ABOUT ME: 
-I am a first year Btech CSE student.
+In the future, I plan to learn React, Node.js, and other technologies to build full-fledged web applications.
 
-Learning:💻
-Currently, i started my journey in Web Dev.
-
-Programming languages:👩‍💻
-Html,Css
-
-
-<!---
-rabhyaaaa/rabhyaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Get In Touch
+- **Twitter**:
+- **Email**: tyagirabhya27@gmail.com
