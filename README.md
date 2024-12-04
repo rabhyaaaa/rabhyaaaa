@@ -5,7 +5,7 @@ I'm a first-year B.Tech CSE student Currently, learning web development.
 Completed, working on structured web content.
 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
- Currently learning, focusing on layout and design.
+ Just completed , focusing on layout and design.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white )
 Coming soon!
